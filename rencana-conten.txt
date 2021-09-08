@@ -7,3 +7,4 @@ rencana conten
   - b
 - vlog
 - fundamental struktur data dasar
+- python
