@@ -7,3 +7,4 @@ rencana conten
 - vlog
 - agular
 - react
+- ide baru dari 12
