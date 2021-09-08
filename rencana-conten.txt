@@ -4,3 +4,4 @@ rencana conten
 - php
 - interview
 - vlog
+- fundamental struktur data dasar
